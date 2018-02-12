@@ -58,8 +58,8 @@ export default () => (
     />
 
     <GitHubIssueCount
-      owner='danielbayerlein'
-      repository='dashboard'
+      owner='zeit'
+      repository='next.js'
     />
   </Dashboard>
 )
